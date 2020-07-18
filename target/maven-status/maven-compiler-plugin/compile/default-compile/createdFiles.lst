@@ -1,0 +1,11 @@
+com\prac\spring\core\xml\PracticeXmlBeanLifeCycleSpringApp.class
+com\prac\spring\core\xml\Coach.class
+com\prac\spring\core\annotation\AnnotationDemoApp.class
+com\prac\spring\core\xml\PracticeXmlBeanScopeSpringApp.class
+com\prac\spring\core\annotation\Coach.class
+com\prac\spring\core\xml\FortuneService.class
+com\prac\spring\core\annotation\TennisCoach.class
+com\prac\spring\core\xml\HockeyCoach.class
+com\prac\spring\core\xml\PracticeXMLSpringApp.class
+com\prac\spring\core\xml\RandomFortuneService.class
+com\prac\spring\core\xml\CricketCoach.class
